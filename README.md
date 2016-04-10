@@ -1,4 +1,6 @@
 # nova-sds011
+[![Build Status](https://travis-ci.org/chatch/nova-sds011.svg?branch=master)](https://travis-ci.org/chatch/nova-sds011)
+
 [Nova SDS011](http://inovafitness.com/upload/file/20150311/14261262164716.pdf) PM sensor serial reader
 
 ## Quickstart
