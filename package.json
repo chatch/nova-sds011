@@ -1,23 +1,29 @@
 {
-    "name": "nova-sds011",
-    "version": "0.0.1",
-    "description": "Nova SDS011 serial reader",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/chatch/nova-sds011.git"
-    },
-    "main": "lib/sds011.js",
-    "scripts": {
-        "start": "node ./index.js",
-        "test": "mocha test/test.js"
-    },
-    "dependencies": {
-        "serialport": "^2.0.7-beta5"
-    },
-    "devDependencies": {
-        "mocha": "^2.4.5"
-    },
-    "keywords": ["pm", "pm2.5", "pm10", "sensor", "air"],
-    "author": "Chris Hatch",
-    "license": "GPL-3.0"
+  "name": "nova-sds011",
+  "version": "0.0.2",
+  "description": "Nova SDS011 serial reader",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chatch/nova-sds011.git"
+  },
+  "main": "lib/sds011.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "mocha test/test.js"
+  },
+  "dependencies": {
+    "serialport": "^2.0.7-beta5"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "keywords": [
+    "pm",
+    "pm2.5",
+    "pm10",
+    "sensor",
+    "air"
+  ],
+  "author": "Chris Hatch",
+  "license": "GPL-3.0"
 }
