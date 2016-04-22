@@ -1,4 +1,5 @@
 # nova-sds011
+[![](https://img.shields.io/npm/v/nova-sds011.svg)](https://www.npmjs.com/package/nova-sds011)
 [![Build Status](https://travis-ci.org/chatch/nova-sds011.svg?branch=master)](https://travis-ci.org/chatch/nova-sds011)
 
 [Nova SDS011](http://inovafitness.com/upload/file/20150311/14261262164716.pdf) PM sensor serial reader
